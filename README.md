@@ -2,9 +2,16 @@
 跑步故事
 
 ###里程碑
-####Target:10KM-47' (HK SP Stand)
-####Target:5KM-20' (PLA Stand)
-####Target:3KM-19'42'' (US Army Stand)
+
+- [ ] Target:3KM-19'42'' (US Army Stand)
+           - [x] 24'
+           
+- [ ] Target:5KM-20' (PLA Stand)
+           - [x] 38'24''
+           
+- [ ] Target:10KM-47' (HK SP Stand)
+
+- [ ] Target:16KM
 
 
 ###[跑步路线](http://www.jianshu.com/p/6a2fea20b57b)
