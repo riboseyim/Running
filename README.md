@@ -4,10 +4,10 @@
 ###里程碑
 
 - [ ] Target:3KM-19'42'' (US Army Stand)
-           - [x] 24'
+- [x] 24'
            
 - [ ] Target:5KM-20' (PLA Stand)
-           - [x] 38'24''
+- [x] 38'24''
            
 - [ ] Target:10KM-47' (HK SP Stand)
 
